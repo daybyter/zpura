@@ -1,0 +1,19 @@
+
+State Machine - |zpura|state
+Name state.state_fetch_ucode state.state_exec state.state_error state.state_fetch_code state.state_run_ucode 
+state.state_fetch_code 0 0 0 0 0 
+state.state_error 0 0 1 1 0 
+state.state_exec 0 1 0 1 0 
+state.state_fetch_ucode 1 0 0 1 0 
+state.state_run_ucode 0 0 0 1 1 
+
+State Machine - |zpura|memory_controller:mem_controller|state
+Name state.state_sdread_complete state.state_wr_sdram_complete state.state_wr_sdram_hi state.state_wr_sdram_lo state.state_rd_sdram_hi state.state_rd_sdram_lo state.state_rd_rom state.state_avail 
+state.state_avail 0 0 0 0 0 0 0 0 
+state.state_rd_rom 0 0 0 0 0 0 1 1 
+state.state_rd_sdram_lo 0 0 0 0 0 1 0 1 
+state.state_rd_sdram_hi 0 0 0 0 1 0 0 1 
+state.state_wr_sdram_lo 0 0 0 1 0 0 0 1 
+state.state_wr_sdram_hi 0 0 1 0 0 0 0 1 
+state.state_wr_sdram_complete 0 1 0 0 0 0 0 1 
+state.state_sdread_complete 1 0 0 0 0 0 0 1 

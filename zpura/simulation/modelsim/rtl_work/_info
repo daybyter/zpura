@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/andreas/fpga/zpura/simulation/modelsim
+vsdram_controller
+!i10b 1
+!s100 ZjPNgEQGPRRAXG>m:gDR30
+IN64kB^@?F[2oc2UdIC@hO1
+VO^A0JH^kNG<I`86kB>OG31
+Z1 d/home/andreas/fpga/zpura/simulation/modelsim
+w1514150230
+8/home/andreas/fpga/zpura/memory/sdram/sdram_controller.v
+F/home/andreas/fpga/zpura/memory/sdram/sdram_controller.v
+L0 25
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1519856100.292044
+!s107 /home/andreas/fpga/zpura/memory/sdram/sdram_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/andreas/fpga/zpura/memory/sdram|/home/andreas/fpga/zpura/memory/sdram/sdram_controller.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+/home/andreas/fpga/zpura/memory/sdram -O0

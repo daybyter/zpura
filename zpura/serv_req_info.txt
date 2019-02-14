@@ -1,0 +1,40 @@
+<internal_error>
+	<executable>quartus_map</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map (2147 megabytes used)</error>
+	<date>Fri Feb 23 01:45:45 2018</date>
+	<version>Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map (2147 megabytes used)</error>
+	<date>Fri Feb 23 01:48:27 2018</date>
+	<version>Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map (2147 megabytes used)</error>
+	<date>Fri Feb 23 23:48:42 2018</date>
+	<version>Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map (2147 megabytes used)</error>
+	<date>Sat Feb 24 00:14:11 2018</date>
+	<version>Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map (2147 megabytes used)</error>
+	<date>Sat Feb 24 00:15:48 2018</date>
+	<version>Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition</version>
+</internal_error>
+

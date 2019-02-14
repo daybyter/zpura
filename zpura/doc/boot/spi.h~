@@ -1,0 +1,11 @@
+/* Addresses of the SPI data and controlport */
+#define SPI_DATA (1024*1024*1024) /* Memory mapped at 1GB for now */
+#define SPI_CONTROL (SPI_DATA+1)  /* Control port for SPI */
+#define SPI_CLK_SPEED (1)         /* Select clock speed. 0 means <400kHz. 1 is fullspeed.*/
+#define SPI_CS_1 (1 << 4)         /* Chipselect for SPI device 1 of 4 */
+#define SPI_CS_2 (1 << 5)         /*   "                       2      */
+#define SPI_CS_3 (1 << 6)         /*                           3      */
+#define SPI_CS_4 (1 << 7)         /*                           4      */
+
+/* To not depend on a readable control port store the current SPI status in a var. */
+extern uint8_t spi_status;

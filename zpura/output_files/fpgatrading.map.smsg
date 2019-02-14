@@ -1,0 +1,6 @@
+Warning (10273): Verilog HDL warning at sdram_controller.v(166): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at zpura.sv(33): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at countdown_timer.sv(15): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at memory_controller.sv(67): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at memory_controller.sv(90): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at TimestampGenerator.sv(18): extended using "x" or "z"
